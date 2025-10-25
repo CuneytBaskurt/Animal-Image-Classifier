@@ -42,12 +42,12 @@ git clone https://github.com/CuneytBaskurt/Animal-Image-Classifier.git
 cd Animal-Image-Classifier
 ```
 
-###2️⃣ Install Requirements
+### 2️⃣ Install Requirements
 ```bash
 pip install torch torchvision gradio opencv-python numpy pillow
 ```
 
-###3️⃣ Download Model and Dataset
+### 3️⃣ Download Model and Dataset
 ```bash
 Due to the large size of files, the model weights and dataset are hosted on Google Drive.
 

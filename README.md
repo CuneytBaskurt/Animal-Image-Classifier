@@ -40,10 +40,12 @@ Follow these steps to run the project on your local machine 🖥️
 ```bash
 git clone https://github.com/CuneytBaskurt/Animal-Image-Classifier.git
 cd Animal-Image-Classifier
-
+```
+```bash
 2️⃣ Install Requirements
 pip install torch torchvision gradio opencv-python numpy pillow
-
+```
+```bash
 3️⃣ Download Model and Dataset
 Due to the large size of files, the model weights and dataset are hosted on Google Drive.
 
@@ -58,6 +60,7 @@ Action: Place the vit_model.pth file in the project’s root directory (next to 
 📁 Download Dataset from Google Drive
 
 Action: The provided script reads class names from this dataset.
+```
 
 🖼️ Model & Preprocessing Pipeline
 

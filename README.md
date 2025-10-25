@@ -53,13 +53,13 @@ Due to the large size of files, the model weights and dataset are hosted on Goog
 
 🔽 Model Weights (vit_model.pth)
 
-📁 Download Model from Google Drive
+📁 Download Model from Google Drive : https://drive.google.com/drive/u/0/folders/1AqBrETe07cNRSiz4BY0T07q49clORl6d
 
 Action: Place the vit_model.pth file in the project’s root directory (next to the script file).
 
 📦 Dataset (Required for Script)
 
-📁 Download Dataset from Google Drive
+📁 Download Dataset from Google Drive : https://drive.google.com/drive/u/0/folders/1uXMJa2CX5eg_kGWghbqg8TWkpeQi-0VI
 
 Action: The provided script reads class names from this dataset.
 ```
@@ -90,5 +90,5 @@ After these enhancements, the filtered image is sent to the ViT model, and the T
 
 Cüneyt Oğuz Başkurt
 📍 Computer Engineering Student — Kocaeli University
-🔗 GitHub Profile
+🔗 GitHub Profile : https://github.com/CuneytBaskurt
 
